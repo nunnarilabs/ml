@@ -1,0 +1,136 @@
+Time, Name, Message
+13:45:08 , Navaneeth Malingan  , AN Present
+13:45:14 , Paranthama A K  , AN Present
+13:45:20 , RITHVIKAILAS  , AN Present
+13:45:21 , HARIVIGNESH  , AN PRESENT sir
+13:45:24 , Gomighaa R  , AN Present
+13:45:24 , KAVYA.S  , AN Present
+13:45:25 , Rajganesh A  , AN present
+13:45:29 , Sathya Sedhu T  , AN Present Sir
+13:45:30 , Manikandan R  , AN Present
+13:45:34 , Nishanth  , AN present
+13:45:35 , A P Dharineeshh  , AN Present sir
+13:45:36 , Manikandan R  , AN Present
+13:45:37 , NAVEEN R  , AN PRESENT
+13:45:39 , Prasanth P  , AN Present
+13:45:41 , Rajkumar  , AN present
+13:45:52 , Poorna Vaishnavi  , AN present sir
+13:46:28 , Nithi  , AN present sir
+13:46:38 , MADHAVAN  , AN PRESENT
+13:46:47 , Surya CS  , AN present sir
+13:47:11 , NIVEDHA S  , AN PRESENT sir
+13:47:13 , Priyanka  , AN PRESENT SIR
+13:48:01 , Newton Prabu P  , A
+13:48:13 , HARIVIGNESH  , AN PRESENT SIR
+13:48:14 , Prasanth P  , AN Present
+13:48:20 , Lohith Raksha  , AN present sir
+13:48:52 , Surya CS  , AN present sir
+13:49:07 , Newton Prabu P  , AN present sir
+13:57:27 , Koushik Rajaa M  , An Present
+14:18:37 , Navaneeth Malingan  , Maths
+14:18:44 , HARIVIGNESH  , maths
+14:18:44 , Rajganesh A  , maths
+14:18:44 , RITHVIKAILAS  , maths
+14:18:45 , MADHAVAN  , maths
+14:18:45 , Surya CS  , maths
+14:18:46 , KAVYA.S  , Maths
+14:18:47 , Koushik Rajaa M  , Maths
+14:18:48 , Gomighaa R  , maths
+14:18:50 , NAVEEN R  , MATHS
+14:18:51 , Poorna Vaishnavi  , maths
+14:18:52 , Manikandan R  , maths
+14:18:52 , Sathya Sedhu T  , Maths
+14:18:54 , Paranthama A K  , maths
+14:18:56 , Prasanth P  , maths
+14:18:57 , Nishanth  , maths
+14:18:58 , NIVEDHA S  , maths
+14:18:59 , Manikandan R  , maths
+14:19:08 , Rajkumar  , maths
+14:19:37 , Nithi  , maths
+14:20:11 , Newton Prabu P  , maths
+14:20:14 , A P Dharineeshh  , maths
+15:05:35 , Navaneeth Malingan  , Numpy
+15:05:38 , Sathya Sedhu T  , Numpy
+15:05:40 , KAVYA.S  , Numpy
+15:05:40 , Surya CS  , numpy
+15:05:41 , Paranthama A K  , Numpy
+15:05:42 , NAVEEN R  , NUMPY
+15:05:43 , Rajganesh A  , numpy
+15:05:44 , HARIVIGNESH  , Numpy
+15:05:44 , A P Dharineeshh  , Numpy
+15:05:44 , Rithvikailas  , Numpy
+15:05:45 , Manikandan R  , Numpy
+15:05:48 , Prasanth P  , numpy
+15:05:49 , Gomighaa R  , Numpy
+15:05:49 , Nishanth  , Numpy
+15:05:50 , Lohith Raksha  , Numpy
+15:05:54 , Poorna Vaishnavi  , numpy
+15:05:58 , MADHAVAN  , Numpy
+15:06:09 , Manikandan R  , Numpy
+15:06:09 , Rajkumar  , numpy
+15:06:14 , Koushik Rajaa M  , numpy
+15:06:14 , Prasanth P  , numpy
+15:07:01 , Newton Prabu P  , numpy
+15:34:38 , Navaneeth Malingan  , NPND
+15:34:40 , Manikandan R  , npnd
+15:34:42 , KAVYA.S  , NPND
+15:34:42 , Paranthama A K  , NPND
+15:34:43 , Sathya Sedhu T  , NPND
+15:34:44 , Newton Prabu P  , NPND
+15:34:46 , Prasanth P  , NPND
+15:34:47 , Poorna Vaishnavi  , NPND
+15:34:48 , HARIVIGNESH  , NPND
+15:34:48 , NIVEDHA S  , npnd
+15:34:49 , Rithvikailas  , NPND
+15:34:49 , MADHAVAN  , NPND
+15:34:49 , Surya CS  , NPND
+15:34:50 , Manikandan R  , NPBD
+15:34:51 , Lohith Raksha  , NPND
+15:34:52 , Gomighaa R  , NPND
+15:34:52 , Rajkumar  , NPND
+15:34:54 , Nishanth  , NPND
+15:35:11 , Prasanth P  , NPND
+15:36:51 , A P Dharineeshh  , NPND
+15:36:59 , Nithi  , NPND
+15:37:16 , Koushik Rajaa M  , NPND
+15:37:26 , Rajganesh A  , NPND
+15:57:52 , Navaneeth Malingan  , Pandas
+15:57:58 , Rajganesh A  , pandas
+15:58:00 , Surya CS  , pandas
+15:58:01 , RITHVIKAILAS  , pandas
+15:58:08 , Sathya Sedhu T  , Pandas
+15:58:08 , Prasanth P  , Pandas
+15:58:08 , Nishanth  , pandas
+15:58:08 , NIVEDHA S  , pandas
+15:58:08 , Poorna Vaishnavi  , pandas
+15:58:08 , KAVYA.S  , Pandas
+15:58:08 , Manikandan R  , pandas
+15:58:08 , Koushik Rajaa M  , Pandas
+15:58:10 , Paranthama A K  , Pandas
+15:58:12 , NAVEEN R  , PANDAS
+15:58:13 , Manikandan R  , pandas
+15:58:24 , Newton Prabu P  , pandas
+15:58:34 , Surya CS  , Pandas
+15:58:35 , A P Dharineeshh  , pandas
+15:58:37 , HARIVIGNESH  , pandas
+15:59:08 , Nithi  , pandas
+15:59:09 , Gomighaa R  , pandas
+16:50:17 , Navaneeth Malingan  , pandasclose
+16:50:22 , HARIVIGNESH  , pandasclose
+16:50:23 , Paranthama A K  , pandasclosse
+16:50:25 , KAVYA.S  , pandasclose
+16:50:25 , Gomighaa R  , pandasclose
+16:50:26 , Sathya Sedhu T  , Pandasclose
+16:50:32 , Manikandan R  , Pandasclose
+16:50:35 , NAVEEN R  , PANDASCLOSE
+16:50:35 , A P Dharineeshh  , pandasclose
+16:50:36 , NIVEDHA S  , pandasclose
+16:50:37 , Nishanth  , pandasclose
+16:50:40 , Lohith Raksha  , pandas close
+16:50:41 , Manikandan R  , Pandasclose
+16:50:42 , Poorna Vaishnavi  , pandasclose
+16:50:52 , MADHAVAN  , pandasclose
+16:50:54 , Rajkumar  , pandaclose
+16:50:57 , Surya CS  , pandaclose
+16:51:09 , Nithi  , pandasclose
+16:51:36 , Rajganesh A  , pandasclose
