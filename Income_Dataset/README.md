@@ -8,4 +8,4 @@ They extracted a set of data records that met specific criteria, which were as f
 The objective of this dataset is to predict whether a person's annual income exceeds $50,000.
 
 ## Dataset Link
-Kaggle: https://www.kaggle.com/datasets/anaghakp/adult-income-census
+Kaggle: https://www.kaggle.com/datasets/uciml/adult-census-income
